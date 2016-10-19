@@ -1,2 +1,2 @@
 # jmIoT
-IoT stuff
+IoT stuff; learning how it works
