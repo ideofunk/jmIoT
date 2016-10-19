@@ -9,7 +9,7 @@ while True:
     time.sleep(1)
     board_LED.write(0)
     time.sleep(1)
-    delete
+    del board_LED
 #    print(i)
     if i >= 105:
         i = 100
