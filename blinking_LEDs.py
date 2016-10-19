@@ -11,6 +11,6 @@ while True:
     time.sleep(1)
     del board_LED # delete the LED we're on to move onto the next one
 #    print(i)
-    if i >= 105:
-        i = 100 # once LED 105 is reached, start over
+    if i >= 106:
+        i = 100 # start over
  
