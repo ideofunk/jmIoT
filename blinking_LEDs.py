@@ -1,6 +1,6 @@
 import mraa
 import time
-print('Ctrl+c to stop')
+print('Press Ctrl+c to stop')
 i = 100 # start with LED 100
 while True:
     board_LED = mraa.Gpio(i) # access LEDs with mraa library
